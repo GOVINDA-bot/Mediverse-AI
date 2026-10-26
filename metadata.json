@@ -1,0 +1,6 @@
+{
+  "name": "MediVerse — PRD Specification & Architecture Platform",
+  "description": "Comprehensive implementation-ready Product Requirements Document (PRD), system architecture, security framework, and interactive prototype for the MediVerse healthcare platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
